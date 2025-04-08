@@ -39,7 +39,7 @@ val gmsCoreSupportPatch = gmsCoreSupportPatch(
             "19.25.37",
             "19.34.42",
             "19.43.41",
-            "19.47.53",
+            "19.47.54",
             "20.07.39",
         ),
     )

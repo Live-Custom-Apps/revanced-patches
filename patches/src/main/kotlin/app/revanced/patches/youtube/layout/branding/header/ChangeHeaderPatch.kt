@@ -35,7 +35,6 @@ private val variants = arrayOf("light", "dark")
 val changeHeaderPatch = resourcePatch(
     name = "Change header",
     description = "Applies a custom header in the top left corner within the app. Defaults to the ReVanced header.",
-    use = false,
 ) {
     dependsOn(versionCheckPatch)
 
@@ -45,7 +44,7 @@ val changeHeaderPatch = resourcePatch(
             "19.25.37",
             "19.34.42",
             "19.43.41",
-            "19.47.53",
+            "19.47.54",
             "20.07.39",
         )
     )
