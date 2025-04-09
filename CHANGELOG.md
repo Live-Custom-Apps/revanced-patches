@@ -1,3 +1,10 @@
+## [5.18.1](https://github.com/Live-Custom-Apps/revanced-patches/compare/v5.18.0...v5.18.1) (2025-04-09)
+
+
+### Bug Fixes
+
+* **YouTube:** Custom Rebranding ([5d396e6](https://github.com/Live-Custom-Apps/revanced-patches/commit/5d396e6e31d1c8d0cb6fb7225bbf3b7d0fd66f94))
+
 # [5.18.0](https://github.com/ReVanced/revanced-patches/compare/v5.17.0...v5.18.0) (2025-03-28)
 
 
