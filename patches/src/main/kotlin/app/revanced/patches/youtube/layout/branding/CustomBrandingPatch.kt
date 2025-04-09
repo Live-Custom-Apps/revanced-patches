@@ -37,6 +37,7 @@ private val mipmapDirectories = arrayOf(
 val customBrandingPatch = resourcePatch(
     name = "Custom branding",
     description = "Applies a custom app name and icon. Defaults to \"YouTube ReVanced\" and the ReVanced logo.",
+    use = true,
 ) {
     dependsOn(versionCheckPatch)
 

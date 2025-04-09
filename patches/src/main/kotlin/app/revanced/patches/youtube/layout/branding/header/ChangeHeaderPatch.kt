@@ -35,6 +35,7 @@ private val variants = arrayOf("light", "dark")
 val changeHeaderPatch = resourcePatch(
     name = "Change header",
     description = "Applies a custom header in the top left corner within the app. Defaults to the ReVanced header.",
+    use = true,
 ) {
     dependsOn(versionCheckPatch)
 
